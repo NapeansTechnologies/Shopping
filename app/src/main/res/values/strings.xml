@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Online Shopping</string>
+    <string name="changelog">Changelog</string>
+    <string name="changes">Lorem Ipsum</string>
+    <string name="login">Login</string>
+    <string name="wishlist">Wishlist</string>
+    <string name="forgot">Forgot Password</string>
+    <string name="register_now">Register Now</string>
+    <string name="already_mem">Already a member ? </string>
+    <string name="login_now">Login Now</string>
+</resources>
